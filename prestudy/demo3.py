@@ -1,0 +1,13 @@
+#整数可以表示为十进制，二进制，八进制，十六进制
+print('十进制',118)
+print('二进制',0b10010101011)
+print('八进制',0o176)
+print('十六进制',0x176EF)
+str="""人生苦短"""
+str1='''asda
+asdad
+asda
+asdad
+adsdad'''
+print(str)
+print(str1,type(str1))
